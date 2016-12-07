@@ -1,2 +1,2 @@
-# processing-Projects
+# Processing-Projects
 Random design projects
